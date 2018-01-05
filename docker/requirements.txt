@@ -1,0 +1,5 @@
+fire
+python-magic
+pillow
+requests
+pysal
